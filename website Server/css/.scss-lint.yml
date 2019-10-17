@@ -1,0 +1,13 @@
+linters:
+  ColorVariable:
+    enabled: false
+  IdSelector:
+    enabled: false
+  PropertySortOrder:
+    enabled: false
+  SelectorFormat:
+    convention: camel_case
+  SingleLinePerSelector:
+    enabled: false
+  StringQuotes:
+    style: double_quotes
